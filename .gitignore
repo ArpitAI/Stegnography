@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# IDE-specific files 
+.vscode/
+
+# Generated output images (adjust path/name if different)
+images/my_stego_image.png # Specific generated stego image
+# OR, if you want to ignore ALL .png files generated in 'images' except cover:
+# images/*.png
+# !images/cover_image.png # This line would explicitly un-ignore cover_image.png if you used the above wildcard
+# For this project, it's safer to just ignore specific output names or general temp files.
+# If your output image name is dynamic, you might ignore all PNGs in a specific 'output' folder:
+# output/
