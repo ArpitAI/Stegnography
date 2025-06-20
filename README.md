@@ -43,7 +43,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1.  **Clone the Repository (or Download):**
     ```bash
-    git clone [https://github.com/ArpitAI/Steganography.git](https://github.com/ArpitAI/Steganography.git)
+    git clone [https://github.com/ArpitAI/Steganography](https://github.com/ArpitAI/Steganography)
     cd Steganography
     ```
 
@@ -144,5 +144,3 @@ Feel free to fork this repository, open issues, or submit pull requests to contr
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 -----
-
-Replace `https://github.com/YourUsername/SteganographyProject.git` with your actual repository URL. If you plan to add a `LICENSE` file, you should create one in the root directory.
