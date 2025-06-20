@@ -43,7 +43,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1.  **Clone the Repository (or Download):**
     ```bash
-    git clone [https://github.com/ArpitAI/Steganography](https://github.com/ArpitAI/Steganography)
+    git clone https://github.com/ArpitAI/Steganography
     cd Steganography
     ```
 
